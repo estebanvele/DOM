@@ -34,5 +34,4 @@ const crearSeccion2 = () => {
     return seccion;
 }
 
-// Agregar la sección al DOM
 document.body.appendChild(crearSeccion2());
